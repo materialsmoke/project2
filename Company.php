@@ -1,3 +1,5 @@
+<?php
+
 class Company
 {
     public $companyData;
